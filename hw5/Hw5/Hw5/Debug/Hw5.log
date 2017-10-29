@@ -1,0 +1,14 @@
+﻿  Hw5-pr1.cpp
+h:\cs121\new folder\std_lib_facilities_5.h(110): error C2664: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string(const std::basic_string<char,std::char_traits<char>,std::allocator<char>> &)': cannot convert argument 1 from 'char' to 'std::initializer_list<_Elem>'
+          with
+          [
+              _Elem=char
+          ]
+  h:\cs121\new folder\std_lib_facilities_5.h(110): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  h:\cs121\new folder\hw5-pr1.cpp(98): note: see reference to function template instantiation 'String::String<char>(S)' being compiled
+          with
+          [
+              S=char
+          ]
+  Chrono.cpp
+  Generating Code...

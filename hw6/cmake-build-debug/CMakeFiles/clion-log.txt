@@ -1,0 +1,3 @@
+CMakeLists.txt not found in H:\cs121\hw6
+Cygwin not found at: "C:\cygwin"
+CMake executable is incorrect

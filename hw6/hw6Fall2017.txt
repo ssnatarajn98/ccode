@@ -1,0 +1,16 @@
+CSCE 121-700: Introduction to Program Design and Concepts
+Fall 2017
+Homework 6 
+
+Due Wednesday, Oct 11, 11:59 PM. Review the General Instructions! 
+
+Do both of the below: 
+1. Read zyBook Chapters 24 & 25 (all sections, including those marked “optional”) and complete all associated Activities (Participation and Challenge) 
+
+2. Write a new program (hw6-pr2) meeting at least the following minimum requirements: 
+o Opens the text version of this file (hw6-Fall2017.txt) and searches thru the file for the first occurrence of each of the 26 uppercase characters of the alphabet (A-Z), then each the 10 digits (0-9), and finally each of the 26 lowercase characters of the alphabet (a-z).  As it finds each of these characters it should also record its position in the file (assume the first character in the file is in position 1).  If the character or digit is not found in the file then it should be recorded as “Not Found” [HINT!! Use location=0 to indicate “Not Found”]. 
+o Display (5 per line) each of the alphanumeric characters (in the same order the search was done) immediately followed by its location in the file.  Use exactly 10 columns to display each character/location pair as follows: character, 1 space, 6 digit location with no leading zeros, 2 spaces.  For “Not Found” characters display location as NotFnd.
+o NOTE!!!!  You MUST specify in your testing doc how you are handling Whitespace in the file (i.e. skipping or counting).
+o EXTRA CREDIT (20 points): Display (5 per line) each of the alphanumeric characters (in the order they were found in the file) immediately followed by its location in the file.  Use exactly 10 columns to display each character/location pair as follows: character, 1 space, 6 digit location with no leading zeros, 2 spaces.  “Not Found” characters should be displayed at the beginning of the list with location shown as NotFnd.
+Each of the above is worth 80 points, for a total of 160 points.  For Problem 1 your score will be 80 points multiplied by your completion percentage for Chapters 24 & 25 (all sections, including those marked “optional”) as measured at 11:59pm on 10/11/17.  For Problem 2 the result of the program grading rubric will be used.
+

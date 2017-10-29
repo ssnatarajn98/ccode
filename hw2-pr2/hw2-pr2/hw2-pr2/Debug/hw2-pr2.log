@@ -1,0 +1,4 @@
+﻿  hw2-pr2cpp.cpp
+h:\cs121-assignments\hw2-pr2\hw2-pr2\hw2-pr2\hw2-pr2cpp.cpp(8): error C2374: 'BullCounter': redefinition; multiple initialization
+  h:\cs121-assignments\hw2-pr2\hw2-pr2\hw2-pr2\hw2-pr2cpp.cpp(4): note: see declaration of 'BullCounter'
+h:\cs121-assignments\hw2-pr2\hw2-pr2\hw2-pr2\hw2-pr2cpp.cpp(27): warning C4018: '<': signed/unsigned mismatch
